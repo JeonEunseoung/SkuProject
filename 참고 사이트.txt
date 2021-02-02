@@ -6,3 +6,6 @@ https://www.youtube.com/watch?v=8eIQNfPbRms
 
 https://opentutorials.org/course/3084
 (HTML 코딩 사이트)
+
+https://pythonkim.tistory.com/131
+(텐서플로 라이트 사이트)
