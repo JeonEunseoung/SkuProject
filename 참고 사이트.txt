@@ -9,3 +9,9 @@ https://opentutorials.org/course/3084
 
 https://pythonkim.tistory.com/131
 (텐서플로 라이트 사이트)
+
+https://www.koreascience.or.kr/article/JAKO201809863361903.pdf
+(카카오톡 플러스친구 챗봇 논문)
+
+https://sendbird.com/ko/blog/tutorial-react-native-%EB%A9%94%EC%8B%9C%EC%A7%80-%EC%95%B1-%EC%A0%9C%EC%9E%91%ED%95%98%EA%B8%B0
+(react native로 메시지 앱 제작하기)
