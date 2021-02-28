@@ -1,0 +1,11 @@
+https://github.com/ishita27/Printed-Text-recognition-and-conversion
+
+https://github.com/Li-Ming-Fan/OCR-DETECTION-CTPN
+
+https://github.com/FlorianMuellerklein/Chars74k_CNN
+
+https://github.com/viky08/Optical-Character-Recognition-Text-Extraction-from-Images-
+
+https://github.com/SuyashLakhotia/TextCategorization
+
+http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/
