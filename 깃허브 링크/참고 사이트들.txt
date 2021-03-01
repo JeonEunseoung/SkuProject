@@ -1,3 +1,20 @@
+이상원
+파이썬 ocr
+
+https://github.com/krenerd/KoOCR-tensorflow
+
+https://github.com/yeonwooKim/KoreanOCR
+
+파이썬 cnn
+
+https://github.com/eagle705/korean-ner-cnn-bilstm
+
+https://github.com/Wongi-Choi1014/Korean-OCR-Model-Design-based-on-Keras-CNN
+
+https://github.com/JISOONLEE/OCR-Korean-Helper-Application-using-CNN
+
+
+
 염주헌
 
 https://github.com/ishita27/Printed-Text-recognition-and-conversion
@@ -11,6 +28,8 @@ https://github.com/viky08/Optical-Character-Recognition-Text-Extraction-from-Ima
 https://github.com/SuyashLakhotia/TextCategorization
 
 http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/
+
+
 
 전은성
 https://www.2e.co.kr/news/articleView.html?idxno=203023
